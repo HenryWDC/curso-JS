@@ -1,0 +1,17 @@
+.btn{
+    border: 2px solid black;
+    border-radius: 25%;
+    padding: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.preto{
+    background-color: #000;
+    color: white;
+}
+.laranja{
+    background-color: orangered;
+    color: white;
+}

@@ -1,0 +1,23 @@
+.color-box{
+    height: 150px;
+    width: 150px;
+    background-color: white;
+    margin-bottom: 15px;
+}
+.btn{
+    border: 5px solid #000;
+    border-radius: 15%;
+    margin-right: 5px;
+    padding: 10px;
+    background-color: gray;
+    color: white;
+}
+.verde{
+    background-color: green;
+}
+.marron{
+    background-color: brown;
+}
+.laranja{
+    background-color: orange;
+}
