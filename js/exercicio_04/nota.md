@@ -1,0 +1,1 @@
+aprendendo a concatenar e usando variavel global.

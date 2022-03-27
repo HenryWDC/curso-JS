@@ -1,0 +1,1 @@
+click em botão por cor e remover
